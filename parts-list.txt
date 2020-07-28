@@ -1,0 +1,12 @@
+Parts list - possibilities listed
+
+controller: 	
+	https://www.amazon.com/LAFVIN-Board-ATmega328P-Micro-Controller-Arduino/dp/B07G99NNXL/ref=pd_bxgy_img_2/139-5953283-7765232?_encoding=UTF8&pd_rd_i=B07G99NNXL&pd_rd_r=18bfcd70-1860-486c-b925-c7eac6023ec9&pd_rd_w=v9biO&pd_rd_wg=HOzDS&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=KYJ03ZJG5JQB5KJ2CRVZ&psc=1&refRID=KYJ03ZJG5JQB5KJ2CRVZ
+lights:		
+	https://www.amazon.com/gp/product/B01MG49QKD/ref=crt_ewc_img_dp_1?ie=UTF8&psc=1&smid=AA0YO4F2UD50F
+	https://www.digikey.com/product-detail/en/sparkfun-electronics/COM-16346/1568-COM-16346-ND/11630211
+camera:
+	https://www.amazon.com/HiLetgo-OV7670-640x480-0-3Mega-Arduino/dp/B07S66Y3ZQ/ref=sr_1_4?dchild=1&keywords=arduino+camera&qid=1595978956&sr=8-4
+
+cabling:	
+	https://www.amazon.com/Eowpower-16-5Ft-20Pin-Rainbow-Ribbon/dp/B01NC2L2WB/ref=sr_1_3?dchild=1&keywords=ribbon+cable&qid=1595978297&s=electronics&sr=1-3
